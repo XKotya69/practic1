@@ -1,0 +1,20 @@
+
+.achievement_card{
+    border-style: solid;
+    box-shadow: 0 0 15px rgb(255, 47, 47);
+    border-radius: 12px;
+    margin: 12px;
+    padding: 10px;
+    max-width: 250px;
+    min-height: 220px;
+}
+main{
+    margin-left: 15pt;
+    margin-right: 15pt;
+}
+.achievement_cont{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
